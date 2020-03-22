@@ -1,8 +1,8 @@
 :root {
     /*  GENERAL CONFIG  */
-    --Title: "C E L E S T I A";
-    --logo: url(https://cdn.discordapp.com/attachments/662824403381518374/664221915229192249/Elysia.png);
-    --background: url(https://cdn.discordapp.com/attachments/476154188494143498/666288979506888704/wp_InPixio.jpg);
+    --Title: "name";
+    --logo: url(https://i.servimg.com/u/f12/20/13/96/34/15777010.png);
+    --background: url(https://cdn.hipwallpaper.com/i/53/26/LnymcJ.jpg);
     /*   You can also use : url(LINKtoIMAGE)  */
     --CustomStatusText: "Edit Custom Status";
     --ViewProfileText: "Show Profile";
@@ -341,7 +341,7 @@ polyline {
 }
 
 .checkbox-1ix_J3 {
-    border: 1px solid var(--MainColor)!important;
+    border: 80px solid var(--MainColor)!important;
 }
 
 .checked-3_4uQ9>svg {
