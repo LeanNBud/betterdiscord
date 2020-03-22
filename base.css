@@ -341,11 +341,11 @@ polyline {
 }
 
 .checkbox-1ix_J3 {
-    border: 100px solid var(--MainColor)!important;
+    border: 10px solid var(--MainColor)!important;
 }
 
 .checked-3_4uQ9>svg {
-    display: circle;
+    display: block;
 }
 
 .actionButtons-1sUUug {
@@ -445,7 +445,7 @@ polyline {
     margin: 0 !important;
     border: none;
     margin-bottom: 0px;
-    background-color: transparent;
+    background-color: #00ff00;
 }
 
 .item-2hkk8m {
