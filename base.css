@@ -91,7 +91,7 @@
 }
 
 @keyframes bganim {
-    100% {
+    20% {
         background-position: 0% 50%;
     }
     50% {
